@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    color: white;
+  }
+  
+  #main {
+    background-color: #171717;
+    padding: 1%;
+  }
+  
+  #title {
+    padding-top: 2%;
+  }
+  
+  #img-div {
+    margin: 2%;
+    background-color: grey;
+    padding-top: 5%;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption {
+    color: #171717;
+  }
+  
+  #tribute-info {
+    margin: 0 33% ;
+  }
+  
+  li {
+    text-align: left;
+  }
+  
+  #tribute-link {
+    color: lightgray;
+  }
+  
+  
